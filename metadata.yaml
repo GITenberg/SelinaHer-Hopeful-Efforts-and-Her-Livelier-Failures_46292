@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25889'
     url: http://www.gutenberg.org/2009/agents/25889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46292#SelinaHer-Hopeful-Efforts-and-Her-Livelier-Failures
 gutenberg_issued: '2014-07-15'
 gutenberg_type: Text
 identifiers:
