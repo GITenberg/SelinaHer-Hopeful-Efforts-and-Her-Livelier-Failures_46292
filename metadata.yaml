@@ -1,0 +1,34 @@
+_repo: SelinaHer-Hopeful-Efforts-and-Her-Livelier-Failures_46292
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, H. D.
+    gutenberg_agent_id: '43702'
+    url: http://www.gutenberg.org/2009/agents/43702
+covers:
+- cover_type: archival
+  image_path: 46292-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Martin, George Madden
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '25889'
+    url: http://www.gutenberg.org/2009/agents/25889
+description: ''
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: 'Selina: Her Hopeful Efforts and Her Livelier Failures'
+url: http://www.gutenberg.org/ebooks/46292
